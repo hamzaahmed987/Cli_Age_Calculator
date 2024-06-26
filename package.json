@@ -1,0 +1,21 @@
+{
+  "name": "age_calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "g": "^2.0.1",
+    "inquirer": "^9.2.23",
+    "moments": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
